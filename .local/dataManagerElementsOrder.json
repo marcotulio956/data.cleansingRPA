@@ -1,0 +1,85 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "getSheetName&Sequence_1",
+        "sheetName&Sequence_1",
+        "dataContent&Sequence_1",
+        "customerName&Sequence_1",
+        "customerEmail&Sequence_1",
+        "rowIndex&Sequence_1",
+        "listOfEmails&Sequence_1",
+        "listOfNames&Sequence_1",
+        "newReadNamesList&Sequence_1",
+        "dt_CustInfo&Sequence_1",
+        "out_listOfReadNames&Sequence_1",
+        "colIndex&Sequence_2",
+        "lastDateRefreshed&Sequence_2",
+        "in_DateStringFormat&Sequence_2",
+        "out_DateTime&Sequence_2",
+        "listOfCompletedNames&Sequence_2",
+        "nameAlreadyExists&Sequence_2",
+        "custAddress&Sequence_2",
+        "custBirthDate&Sequence_2",
+        "string_custBirthDate&Sequence_2",
+        "date_custBirthDate&Sequence_2",
+        "string_lastDateRefreshed&Sequence_2",
+        "readNameEmail&Sequence_14",
+        "readName&Sequence_14",
+        "custyIndex&Sequence_8",
+        "variable1&Sequence_9",
+        "custyName&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_excelSheet"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "IncomingEmails.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_ogExcel&Sequence_1",
+        "listToDelete&Sequence_1",
+        "dt_filteredDataTable&Sequence_1",
+        "fileName&Sequence_1",
+        "listOfDataRows&Sequence_1",
+        "index&Sequence_1",
+        "newListOfReadNames&Sequence_1",
+        "emailPassword&Sequence_3",
+        "inboxMessagesList&Sequence_3",
+        "securePass&Sequence_3",
+        "listOfReadNames&Sequence_3",
+        "nameExisted&Sequence_3",
+        "duplicateName&Sequence_3",
+        "body&Sequence_4",
+        "newName&Sequence_4",
+        "newBirthDate&Sequence_4",
+        "newAddress&Sequence_4",
+        "newEmail&Sequence_4",
+        "testDTOutput&Sequence_4",
+        "dataArray&Sequence_4",
+        "newInfoArray&Sequence_4",
+        "dt_newData&Sequence_4",
+        "rowIndex&Sequence_4",
+        "newRow&Sequence_4",
+        "nowDate&Sequence_4",
+        "oldName&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
